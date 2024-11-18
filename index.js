@@ -19,29 +19,29 @@ document.getElementById("roleDes").onclick = function () {
     img1.appendChild(img_1);
     img2.appendChild(img_2);
     if (a === 1) {
-        img_1.src = "/test01/images09/image1.png";
+        img_1.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image1.png";
     } else if (a === 2) {
-        img_1.src = "/test01/images09/image2.png";
+        img_1.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image2.png";
     } else if (a === 3) {
-        img_1.src = "/test01/images09/image3.png";
+        img_1.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image3.png";
     } else if (a === 4) {
-        img_1.src = "/test01/images09/image4.png";
+        img_1.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image4.png";
     } else if (a === 5) {
-        img_1.src = "/test01/images09/image5.png";
+        img_1.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image5.png";
     } else if (a === 6) {
-        img_1.src = "/test01/images09/image6.png";
+        img_1.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image6.png";
     }
     if (b === 1) {
-        img_2.src = "/test01/images09/image1.png";
+        img_2.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image1.png";
     } else if (b === 2) {
-        img_2.src = "/test01/images09/image2.png";
+        img_2.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image2.png";
     } else if (b === 3) {
-        img_2.src = "/test01/images09/image3.png";
+        img_2.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image3.png";
     } else if (b === 4) {
-        img_2.src = "/test01/images09/image4.png";
+        img_2.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image4.png";
     } else if (b === 5) {
-        img_2.src = "/test01/images09/image5.png";
+        img_2.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image5.png";
     } else if (b === 6) {
-        img_2.src = "/test01/images09/image6.png";
+        img_2.src = "https://walididrissi.github.io/rol-des-avec-JavaScript/image6.png";
     }
 };

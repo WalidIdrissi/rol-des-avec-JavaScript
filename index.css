@@ -6,6 +6,13 @@ body {
     height: 80vh;
     overflow: hidden;
 }
+@media (max-width: 768px) {
+    body {
+        background-size: contain;
+        background-position: center top;
+        height: 100vh;
+    }
+}
 .div {
     width: 50%;
     padding: 50px;

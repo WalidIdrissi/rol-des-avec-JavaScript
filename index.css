@@ -1,14 +1,14 @@
 body {
     background-image: url('https://walididrissi.github.io/rol-des-avec-JavaScript/abstract-3d-dice-with-metal-texture_23-2150891306.png');
-    background-size: 100% auto;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
-    overflow: hidden;
+    margin: 0;
 }
 @media (max-width: 768px) {
     body {
-        background-size: contain;
+        background-size: cover;
         background-position: center top;
         height: 100vh;
     }
